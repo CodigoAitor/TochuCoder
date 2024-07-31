@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL and Python.
 - 💞️ I’m looking to collaborate on a Marketing Company
 - 📫 How to reach me www.linkedin.com/in/aitorpesquera
-- 😄 Pronouns: He/His/Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: good-looking and extroverted people own the world 🌍 
 
 <!---
